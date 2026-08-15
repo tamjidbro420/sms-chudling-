@@ -1,0 +1,6 @@
+{
+  "name": "SMS Forwarder Pro",
+  "description": "Professional SMS Auto Forwarder & Payment Gateway Webhook Sync tool with custom format builder, offline auto-retry queue, and real-time delivery logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
